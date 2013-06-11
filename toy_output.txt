@@ -1,0 +1,13 @@
+narwhal 1
+s 1
+emu 1
+ant 1
+foogoo 1
+ape 1
+wolf 1
+yak 1
+wasp 1
+zebra 2
+cat 1
+
+The average length of collision lists is: 0.0107421875
